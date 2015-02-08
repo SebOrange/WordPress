@@ -1,0 +1,19 @@
+Theme : Crangasi
+Version : 1.0.3
+Author : vladff
+
+June 21, 2014 -> 1.0.3
+------------------------------------------------
+- minor css changes
+- options added to the Customizer for site title, site description and menu links colors
+
+April 20, 2014 -> 1.0.2
+------------------------------------------------
+- functions.php modification
+
+April 20, 2014 -> 1.0.1
+------------------------------------------------
+- small css fixes/improvements
+- changed the_excerpt with the_content for posts with post format
+- added password form on index for protected posts
+- bumped version number

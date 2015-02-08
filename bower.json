@@ -1,0 +1,7 @@
+{
+    "name": "con2mime",
+    "dependencies": {
+        "modernizr": "latest",
+        "angular": "latest"
+    }
+}
